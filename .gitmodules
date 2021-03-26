@@ -1,0 +1,3 @@
+[submodule "Submodules/iOSTools"]
+	path = Submodules/iOSTools
+	url = https://github.com/Yulia8294/iOSTools.git
